@@ -16,7 +16,6 @@
     "@opam/bigstringaf": ">=0.4.0",
     "@opam/angstrom": ">=0.9.0",
     "@opam/faraday": ">=0.6.1",
-    "@opam/gluten-lwt": "*",
     "@opam/psq": "*",
     "@opam/hpack": "*",
     "@reason-native-web/h1": ">=1.0.0"
