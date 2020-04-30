@@ -12,6 +12,7 @@
   "dependencies": {
     "ocaml": ">=4.6.0",
     "@opam/faraday-lwt-unix": "*",
+    "@opam/gluten-lwt-unix": "*",
     "@reason-native-web/h2-lwt": "^0.5.1001",
     "@opam/dune": ">=1.5.0",
     "@reason-native-web/lwt_ssl": ">=1.1.3000",
