@@ -11,7 +11,7 @@
   "files": ["ocaml-h2"],
   "dependencies": {
     "ocaml": ">=4.6.0",
-    "@reason-native-web/h2": "^0.5.1001",
+    "@reason-native-web/h2": "^0.6.0",
     "@opam/dune": ">=1.5.0",
     "@opam/lwt": "*",
     "@opam/gluten-lwt": "*"
